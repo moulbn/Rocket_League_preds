@@ -1,4 +1,4 @@
-# Some Shit Involving a Rocket League Dataset
+# A Playbook Algorithm on Rocket League Data based on Multivariate & Sequential Binary Classification
 
 
 Important Links:
